@@ -20,6 +20,7 @@
 	</properties>
 	
 	
+	
 	<dependencies>
 	
 	
@@ -35,7 +36,7 @@
 		
 		<dependency>
 		<groupId>org.springframework.data</groupId>
-		<artifactId>spring-data-rest-hal-browser</artifactId>
+		<artifactId>spring-data-rest-halbrowserbr-browser</artifactId>
 		</dependency>
 		
 		<dependency>
